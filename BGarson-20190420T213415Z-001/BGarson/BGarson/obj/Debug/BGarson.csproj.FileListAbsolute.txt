@@ -1,0 +1,14 @@
+C:\Users\musa\Desktop\BGarson-20190420T213415Z-001\BGarson\BGarson\bin\Debug\BGarson.exe.config
+C:\Users\musa\Desktop\BGarson-20190420T213415Z-001\BGarson\BGarson\bin\Debug\BGarson.exe
+C:\Users\musa\Desktop\BGarson-20190420T213415Z-001\BGarson\BGarson\bin\Debug\BGarson.pdb
+C:\Users\musa\Desktop\BGarson-20190420T213415Z-001\BGarson\BGarson\obj\Debug\BGarson.csprojAssemblyReference.cache
+C:\Users\musa\Desktop\BGarson-20190420T213415Z-001\BGarson\BGarson\obj\Debug\BGarson.Form1.resources
+C:\Users\musa\Desktop\BGarson-20190420T213415Z-001\BGarson\BGarson\obj\Debug\BGarson.Form2.resources
+C:\Users\musa\Desktop\BGarson-20190420T213415Z-001\BGarson\BGarson\obj\Debug\BGarson.Form3.resources
+C:\Users\musa\Desktop\BGarson-20190420T213415Z-001\BGarson\BGarson\obj\Debug\BGarson.Form4.resources
+C:\Users\musa\Desktop\BGarson-20190420T213415Z-001\BGarson\BGarson\obj\Debug\BGarson.Form5.resources
+C:\Users\musa\Desktop\BGarson-20190420T213415Z-001\BGarson\BGarson\obj\Debug\BGarson.Properties.Resources.resources
+C:\Users\musa\Desktop\BGarson-20190420T213415Z-001\BGarson\BGarson\obj\Debug\BGarson.csproj.GenerateResource.cache
+C:\Users\musa\Desktop\BGarson-20190420T213415Z-001\BGarson\BGarson\obj\Debug\BGarson.csproj.CoreCompileInputs.cache
+C:\Users\musa\Desktop\BGarson-20190420T213415Z-001\BGarson\BGarson\obj\Debug\BGarson.exe
+C:\Users\musa\Desktop\BGarson-20190420T213415Z-001\BGarson\BGarson\obj\Debug\BGarson.pdb
