@@ -45,9 +45,12 @@ namespace BGarson
             dr = cmd.ExecuteReader();
             if (dr.Read())
             {
-                Form5 f5 = new Form5();
-                f5.Show();
-                this.Hide();
+                groupBox2.Visible = true;
+                textBox1.Clear();
+                textBox2.Clear();
+                label5.Text = textBox1.Text;
+
+
 
             }
             else
@@ -59,6 +62,26 @@ namespace BGarson
             }
 
             con.Close();
+        }
+
+        private void button11_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button14_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void groupBox2_Enter(object sender, EventArgs e)
+        {
+            label5.Text = textBox1.Text;
+        }
+
+        private void listView1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

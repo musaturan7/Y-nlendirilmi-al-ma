@@ -61,12 +61,11 @@ namespace BGarson.Properties {
         }
         
         /// <summary>
-        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        ///    benzeri yerelleştirilmiş bir dize arar.
         /// </summary>
-        internal static System.Drawing.Bitmap Iron_Man_1920x1080 {
+        internal static string _ {
             get {
-                object obj = ResourceManager.GetObject("Iron_Man_1920x1080", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
+                return ResourceManager.GetString("", resourceCulture);
             }
         }
     }
