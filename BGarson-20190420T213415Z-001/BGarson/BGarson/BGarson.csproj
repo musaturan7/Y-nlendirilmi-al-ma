@@ -78,6 +78,78 @@
     <Compile Include="Form4.Designer.cs">
       <DependentUpon>Form4.cs</DependentUpon>
     </Compile>
+    <Compile Include="Form5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form5.Designer.cs">
+      <DependentUpon>Form5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hesap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hesap.Designer.cs">
+      <DependentUpon>hesap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="masa1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="masa1.Designer.cs">
+      <DependentUpon>masa1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="masa10.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="masa10.Designer.cs">
+      <DependentUpon>masa10.cs</DependentUpon>
+    </Compile>
+    <Compile Include="masa2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="masa2.Designer.cs">
+      <DependentUpon>masa2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="masa3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="masa3.Designer.cs">
+      <DependentUpon>masa3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="masa4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="masa4.Designer.cs">
+      <DependentUpon>masa4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="masa5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="masa5.Designer.cs">
+      <DependentUpon>masa5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="masa6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="masa6.Designer.cs">
+      <DependentUpon>masa6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="masa7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="masa7.Designer.cs">
+      <DependentUpon>masa7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="masa8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="masa8.Designer.cs">
+      <DependentUpon>masa8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="masa9.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="masa9.Designer.cs">
+      <DependentUpon>masa9.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
@@ -91,6 +163,42 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Form4.resx">
       <DependentUpon>Form4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form5.resx">
+      <DependentUpon>Form5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hesap.resx">
+      <DependentUpon>hesap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="masa1.resx">
+      <DependentUpon>masa1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="masa10.resx">
+      <DependentUpon>masa10.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="masa2.resx">
+      <DependentUpon>masa2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="masa3.resx">
+      <DependentUpon>masa3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="masa4.resx">
+      <DependentUpon>masa4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="masa5.resx">
+      <DependentUpon>masa5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="masa6.resx">
+      <DependentUpon>masa6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="masa7.resx">
+      <DependentUpon>masa7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="masa8.resx">
+      <DependentUpon>masa8.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="masa9.resx">
+      <DependentUpon>masa9.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -116,7 +224,34 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Resources\" />
+    <None Include="Resources\insert.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-add-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\012_refresh-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clean.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sunset_chrome_os_stock-1920x1080.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\indir.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arkaplan.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

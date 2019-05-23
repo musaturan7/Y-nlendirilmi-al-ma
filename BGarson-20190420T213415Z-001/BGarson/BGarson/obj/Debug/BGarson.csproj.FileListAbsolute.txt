@@ -11,3 +11,15 @@ C:\Users\musa\Desktop\BGarson-20190420T213415Z-001\BGarson\BGarson\obj\Debug\BGa
 C:\Users\musa\Desktop\BGarson-20190420T213415Z-001\BGarson\BGarson\obj\Debug\BGarson.csproj.CoreCompileInputs.cache
 C:\Users\musa\Desktop\BGarson-20190420T213415Z-001\BGarson\BGarson\obj\Debug\BGarson.exe
 C:\Users\musa\Desktop\BGarson-20190420T213415Z-001\BGarson\BGarson\obj\Debug\BGarson.pdb
+C:\Users\musa\Desktop\BGarson-20190420T213415Z-001\BGarson\BGarson\obj\Debug\BGarson.Form5.resources
+C:\Users\musa\Desktop\BGarson-20190420T213415Z-001\BGarson\BGarson\obj\Debug\BGarson.masa1.resources
+C:\Users\musa\Desktop\BGarson-20190420T213415Z-001\BGarson\BGarson\obj\Debug\BGarson.masa10.resources
+C:\Users\musa\Desktop\BGarson-20190420T213415Z-001\BGarson\BGarson\obj\Debug\BGarson.masa2.resources
+C:\Users\musa\Desktop\BGarson-20190420T213415Z-001\BGarson\BGarson\obj\Debug\BGarson.masa3.resources
+C:\Users\musa\Desktop\BGarson-20190420T213415Z-001\BGarson\BGarson\obj\Debug\BGarson.masa4.resources
+C:\Users\musa\Desktop\BGarson-20190420T213415Z-001\BGarson\BGarson\obj\Debug\BGarson.masa5.resources
+C:\Users\musa\Desktop\BGarson-20190420T213415Z-001\BGarson\BGarson\obj\Debug\BGarson.masa6.resources
+C:\Users\musa\Desktop\BGarson-20190420T213415Z-001\BGarson\BGarson\obj\Debug\BGarson.masa7.resources
+C:\Users\musa\Desktop\BGarson-20190420T213415Z-001\BGarson\BGarson\obj\Debug\BGarson.masa8.resources
+C:\Users\musa\Desktop\BGarson-20190420T213415Z-001\BGarson\BGarson\obj\Debug\BGarson.masa9.resources
+C:\Users\musa\Desktop\BGarson-20190420T213415Z-001\BGarson\BGarson\obj\Debug\BGarson.hesap.resources

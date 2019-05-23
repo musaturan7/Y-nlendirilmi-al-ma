@@ -13,6 +13,7 @@ namespace BGarson
 {
     public partial class Form3 : Form
     {
+        public Form1 frm1;
         public Form3()
         {
             InitializeComponent();
@@ -45,10 +46,11 @@ namespace BGarson
             dr = cmd.ExecuteReader();
             if (dr.Read())
             {
-                groupBox2.Visible = true;
-                textBox1.Clear();
-                textBox2.Clear();
-                label5.Text = textBox1.Text;
+
+                Form5 f5 = new Form5();
+                this.Hide();
+                f5.Show();
+                
 
 
 
@@ -76,7 +78,6 @@ namespace BGarson
 
         private void groupBox2_Enter(object sender, EventArgs e)
         {
-            label5.Text = textBox1.Text;
         }
 
         private void listView1_SelectedIndexChanged(object sender, EventArgs e)
